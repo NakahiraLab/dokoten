@@ -2,6 +2,8 @@
 
 - preprint: 予稿
 - presentation: 発表スライド
+- conference: 学会資料
+- その他タイトル: 補足資料
 
 ## 学生-テーマ対応表
 |         |     |
